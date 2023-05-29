@@ -12,7 +12,7 @@ System.out.println("web_Car_loan successful3");
 	
 }
 @Test	
-public void Mobile_Car_loan()
+public void Mobile_Car_loan1()
 {
 System.out.println("Mobile_Car_loan1");
 
@@ -20,8 +20,19 @@ System.out.println("Mobile_Car_loan2");
 System.out.println("Mobile_Car_loan3");
 	
 }
+@Test	
+public void Mobile_Car_loan2()
+{
+System.out.println("Mobile_Car_loan1");
+
+System.out.println("Mobile_Car_loan2");
+System.out.println("Mobile_Car_loan3");
+	
+}
+{
 }
 
 
 
 
+}

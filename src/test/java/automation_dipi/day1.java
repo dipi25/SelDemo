@@ -18,7 +18,15 @@ public void login()
 
 public void Home()
 {
-System.out.println("Home successfull");	
-}
+System.out.println("Home successfull1");	
 
+System.out.println("Home successfull2");	
+System.out.println("Home successfull3");	
+}
+{
+	System.out.println("order successfull1");	
+
+	System.out.println("order successfull2");	
+	System.out.println("order successfull3");	
+}
 }
