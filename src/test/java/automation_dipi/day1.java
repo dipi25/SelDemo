@@ -10,7 +10,10 @@ public class day1 {
 
 public void login()
 {
-System.out.println("Login successfull");	
+	System.out.println("Login successfull1");
+	System.out.println("Login successfull2");
+	System.out.println("Login successfull3");
+
 }
 
 public void Home()
