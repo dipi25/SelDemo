@@ -6,7 +6,9 @@ public class day2 {
 @Test	
 public void web_Car_loan()
 {
-System.out.println("web_Car_loan successful");	
+System.out.println("web_Car_loan successful1");	
+System.out.println("web_Car_loan successful2");	
+System.out.println("web_Car_loan successful3");	
 	
 }
 @Test	
